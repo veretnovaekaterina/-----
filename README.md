@@ -16,4 +16,4 @@
 | 12. | [Прогнозирование количества заказов такси на следующий час](https://freelance.habr.com/projects/187526) | Разработка системы предсказания объема заказа |Python, Pandas, Scikit-learn,statsmodels|
 | 13. | [Обучение модели классификации комментариев](https://freelance.habr.com/projects/187526) | Определение токсичности комментарии |Python, Pandas, nltk, tf-idf|
 | 14. | [Обработка фотографий покупателя](https://freelance.habr.com/projects/187526) | Определение возраста по фотографии |Python,Keras|
-| 15. | [Финальный проект](https://freelance.habr.com/projects/187526) | Оптимизация производственных расходов металлургического комбината |Python,Pandas,Matplotlib,Scikit-learn, исследовательский анализ, визуализация данных, lightgbm, catboost|
+| 15. | [Финальный проект](https://github.com/veretnovaekaterina/Yandex-Practicum-Projects/blob/main/Project15/Project%2015.ipynb) | Оптимизация производственных расходов металлургического комбината |Python,Pandas,Matplotlib,Scikit-learn, исследовательский анализ, визуализация данных, lightgbm, catboost|
